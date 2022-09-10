@@ -388,19 +388,21 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = ("""
-\x1b[1;92m ## ### # #  #  ##      
-\x1b[1;92m   #  #  # # # # # #     
-\x1b[1;92m #  #  ### ### # #
-\x1b[1;92m # #  #  # # # # # #     
-\x1b[1;92m #  ### # # # # ## 
-     
+\x1b[1;92m   # ### #     #    #    ######     
+\x1b[1;92m   #  #  #     #   # #   #     #   
+\x1b[1;92m   #  #  #     #  #   #  #     #    
+\x1b[1;92m   #  #  ####### #     # #     #
+\x1b[1;92m # #  #  #     # ####### #     # 
+\x1b[1;92m # #  #  #     # #     # #     #
+\x1b[1;92m ####### #     # #     # ######  
+
    \x1b[1;92m╔═════════════════════════════╗
-   \x1b[1;92m║➣TOOL NAME : { MD JIHAD }   ║
-   \x1b[1;92m║➣AUTHOR    : Md jihad       ║
-   \x1b[1;92m║➣WHATSAPP    : 01935665924 ║
-   \x1b[1;92m║➣FACEBOOK  : Md jihad Hasan   ║
-   \x1b[1;92m║➣Group     : TERMUX HACAR║
-   \x1b[1;92m║➣TELEGRAM : [ https://t.me/mdjihadhasan00 ]   ║
+   \x1b[1;92m║➣TOOL NAME : { MD JIHAD }         ║
+   \x1b[1;92m║➣AUTHOR    : Md jihad             ║
+   \x1b[1;92m║➣WHATSAPP    : 01935665924        ║
+   \x1b[1;92m║➣FACEBOOK  : Md jihad Hasan       ║
+   \x1b[1;92m║➣Group     : TERMUX HACAR         ║
+   \x1b[1;92m║➣TELEGRAM : [ https://t.mdjihad00 ║
    \x1b[1;92m╚═════════════════════════════╝""")
 
 class Main:
