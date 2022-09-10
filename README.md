@@ -2,16 +2,30 @@
 This is a paid Tolls 
 
 
+
+
+
+
  pkg install git
+
  pkg install python
+
  pkg install python3
+
  pkg install repo
+
  pkg install pip
+
  pkg install pip2
+
  pip install bs4
+
  pip install cythonize
+
  git clone https://github.com/12345678jihad/JIHAD-YT
- cd JIHAD-YT
+ 
+cd JIHAD-YT
+
  python 4.py
 
 
